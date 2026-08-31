@@ -99,3 +99,10 @@ PacoSperanto estas nove evoluigita konstruita lingvo (ConLang) celanta kuniĝi k
 * **Fosters empation kaj dialogon:** Evoluigi vortprovizon kaj gramatikon, kiuj kuraĝigas diplomation, neperforton kaj mensan bonstaton.
 * **Internacia solidareco:** Establi kunlaboran platformon por esperantistoj kaj pac-aktivuloj tra landoj kiel Kongo, Ukrainio kaj Barato.
 * **Akademiaj kaj instituciaj ligoj:** Profiti el scienca konsilado, inkluzive de rilatoj kun fakultatanoj de la Harvard Medical School, por antaŭenigi pac-edukadon.
+
+[+]
+
+### Additional information / अतिरिक्त जानकारी / Plia informo / Informations supplémentaires
+
+URL : https://github.com/delphicventurescode/PACOSPERANTO1__pacosperanto_repo__public/tree/main/A1__additionalInfo_dir
+[+]
