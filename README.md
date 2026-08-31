@@ -41,7 +41,7 @@ A constructed language (ConLang for short) is a language whose vocabulary, gramm
 
 ### 2. What is PacoSperanto?
 
-PacoSperanto is a newly developed constructed language designed to unite a global community of peacemakers. Rooted in the internationalist spirit of the Esperanto movement and modern linguistic principles, it connects individuals from conflict-ridden regions across Africa (such as the Congo), Eastern Europe (Ukraine), India, and beyond. Inspired by the attention and encouragement of prominent figures such as Prof. Sanjiv Chopra of Harvard Medical School (brother of Deepak Chopra), PacoSperanto aims to serve as a linguistic instrument for diplomacy, healing, and global harmony. The project is officially slated for rollout in Q4 2026 or Q1 2027.
+PacoSperanto is a newly developed constructed language designed to unite a global community of peacemakers. Rooted in the internationalist spirit of the Esperanto movement and modern linguistic principles, it connects individuals from conflict-ridden regions across Africa (such as the Congo), and Eastern Europe (Ukraine), as well as peacemakers from India, the United States, and beyond. Inspired by the attention and encouragement of prominent figures such as Prof. Sanjiv Chopra of Harvard Medical School (brother of Deepak Chopra), PacoSperanto aims to serve as a linguistic instrument for diplomacy, healing, and global harmony. The project is officially slated for rollout in Q4 2026 or Q1 2027.
 
 ### 3. What are the Aims of PacoSperanto?
 
