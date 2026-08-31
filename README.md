@@ -64,7 +64,7 @@ Une langue construite (ou ConLang) est une langue dont le vocabulaire, la gramma
 
 ### 2. Qu'est-ce que le PacoSperanto ?
 
-Le PacoSperanto est une nouvelle langue construite (ConLang) conçue pour créer et unifier une communauté mondiale de bâtisseurs de paix. S'appuyant sur l'esprit internationaliste du mouvement espérantiste, ce projet relie des personnes issues de régions touchées par des conflits à travers le monde, notamment au Congo, en Ukraine et en Inde. Bénéficiant de l'attention et du soutien de personnalités éminentes telles que le professeur Sanjiv Chopra de la Harvard Medical School (frère de Deepak Chopra), le PacoSperanto aspire à devenir un instrument linguistique favorisant la diplomatie, la guérison et l'harmonie mondiale. Le lancement officiel du projet est prévu pour le quatrième trimestre 2026 ou le premier trimestre 2027.
+Le PacoSperanto est une nouvelle langue construite (ConLang) conçue pour créer et unifier une communauté mondiale de bâtisseurs de paix. S'appuyant sur l'esprit internationaliste du mouvement espérantiste, ce projet relie des personnes issues de régions touchées par des conflits à travers le monde, notamment au Congo, et en Ukraine ainsi que des artisans de paix d'Inde, des États-Unis et d'ailleurs. Bénéficiant de l'attention et du soutien de personnalités éminentes telles que le professeur Sanjiv Chopra de la Harvard Medical School (frère de Deepak Chopra), le PacoSperanto aspire à devenir un instrument linguistique favorisant la diplomatie, la guérison et l'harmonie mondiale. Le lancement officiel du projet est prévu pour le quatrième trimestre 2026 ou le premier trimestre 2027.
 
 ### 3. Quels sont les objectifs du PacoSperanto ?
 
@@ -87,7 +87,7 @@ Konstruita lingvo (mallonge ConLang) estas lingvo kies vortprovizon, gramatikon 
 
 ### 2. Kio estas PacoSperanto?
 
-PacoSperanto estas nove evoluigita konstruita lingvo (ConLang) celanta kuniĝi kaj krei komunumon de pacofarantoj tra la tuta mondo. Bazita sur la internaciisma spirito de la Esperanto-movado kaj modernaj lingvistikaj principoj, ĝi ligas homojn el konflikt-trafitaj regionoj en Afriko (kiel ekzemple Kongo), Orienta Eŭropo (Ukrainio), Barato kaj alie. Inspirite de la atento kaj apogo de elstaraj fakuloj kiel profesoro Sanjiv Chopra de la Harvard Medical School (frato de Deepak Chopra), PacoSperanto celas funkcii kiel ilo por diplomatio, kompato kaj tutmonda harmonio. La oficiala lanĉo de la projekto estas planita por la kvara trimonato de 2026 aŭ la unua trimonato de 2027.
+PacoSperanto estas nove evoluigita konstruita lingvo (ConLang) celanta kuniĝi kaj krei komunumon de pacofarantoj tra la tuta mondo. Bazita sur la internaciisma spirito de la Esperanto-movado kaj modernaj lingvistikaj principoj, ĝi ligas homojn el konflikt-trafitaj regionoj en Afriko (kiel ekzemple Kongo), kaj Orienta Eŭropo (Ukrainio), same kiel pacofarantojn el Barato, Usono kaj pretere. Inspirite de la atento kaj apogo de elstaraj fakuloj kiel profesoro Sanjiv Chopra de la Harvard Medical School (frato de Deepak Chopra), PacoSperanto celas funkcii kiel ilo por diplomatio, kompato kaj tutmonda harmonio. La oficiala lanĉo de la projekto estas planita por la kvara trimonato de 2026 aŭ la unua trimonato de 2027.
 
 ### 3. Kiuj estas la celoj de PacoSperanto?
 
