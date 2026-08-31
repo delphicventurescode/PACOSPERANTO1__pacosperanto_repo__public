@@ -105,4 +105,6 @@ PacoSperanto estas nove evoluigita konstruita lingvo (ConLang) celanta kuniĝi k
 ### Additional information / अतिरिक्त जानकारी / Plia informo / Informations supplémentaires
 
 URL : https://github.com/delphicventurescode/PACOSPERANTO1__pacosperanto_repo__public/tree/main/A1__additionalInfo_dir
+
+
 [+]
