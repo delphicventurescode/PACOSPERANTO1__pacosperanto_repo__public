@@ -18,7 +18,9 @@
 
 ### २. पाकोस्पेरान्तु (PacoSperanto) क्या है?
 
-पाकोस्पेरान्तु (PacoSperanto) एक नवीन निर्मित भाषा (ConLang) है जिसका उद्देश्य दुनिया भर में शांति स्थापना, आपसी संवाद और सौहार्द को बढ़ावा देना है। एस्पेरान्तो आंदोलन की वैश्विक भावना और आधुनिक भाषाई संरचना के अनूठे मिश्रण पर आधारित, यह अफ्रीका (जैसे कांगो) और पूर्वी यूरोप (यूक्रून) के संघर्ष-ग्रस्त क्षेत्रों के व्यक्तियों के साथ-साथ भारत, संयुक्त राज्य अमेरिका और अन्य देशों के शांति निर्माताओं को आपस में जोड़ता है। (** #summary: यह भाषा उन व्यक्तियों को जोड़ती है जो शांति के दूत बनना चाहते हैं।**) हार्वर्ड मेडिकल स्कूल के प्रोफेसर संजीव चोपड़ा (प्रोफेसर दीपक चोपड़ा के भाई) जैसे प्रतिष्ठित विद्वानों के समर्थन और मार्गदर्शन से प्रेरित, पाकोस्पेरान्तु कूटनीति, करुणा और वैश्विक नागरिकता की एक नई भाषा बनने की दिशा में अग्रसर है। इस परियोजना का आधिकारिक शुभारंभ Q4 2026 या Q1 2027 में निर्धारित है।
+पाकोस्पेरान्तु (PacoSperanto) एक नवीन निर्मित भाषा (ConLang) है जिसका उद्देश्य दुनिया भर में शांति स्थापना, आपसी संवाद और सौहार्द को बढ़ावा देना है। एस्पेरान्तो आंदोलन की वैश्विक भावना और आधुनिक भाषाई संरचना के अनूठे मिश्रण पर आधारित, यह अफ्रीका (जैसे कांगो) और पूर्वी यूरोप (यूक्रून) के संघर्ष-ग्रस्त क्षेत्रों के व्यक्तियों के साथ-साथ भारत, संयुक्त राज्य अमेरिका और अन्य देशों के शांति निर्माताओं को आपस में जोड़ता है। (** #summary: यह भाषा उन व्यक्तियों को जोड़ती है जो शांति के दूत बनना चाहते हैं।**) 
+
+हार्वर्ड मेडिकल स्कूल के प्रोफेसर संजीव चोपड़ा (प्रोफेसर दीपक चोपड़ा के भाई) जैसे प्रतिष्ठित विद्वानों के समर्थन और मार्गदर्शन से प्रेरित, पाकोस्पेरान्तु कूटनीति, करुणा और वैश्विक नागरिकता की एक नई भाषा बनने की दिशा में अग्रसर है। इस परियोजना का आधिकारिक शुभारंभ Q4 2026 या Q1 2027 में निर्धारित है।
 
 ### ३. पाकोस्पेरान्तु के मुख्य उद्देश्य क्या हैं?
 
@@ -41,7 +43,9 @@ A constructed language (ConLang for short) is a language whose vocabulary, gramm
 
 ### 2. What is PacoSperanto?
 
-PacoSperanto is a newly developed constructed language designed to unite a global community of peacemakers. Rooted in the internationalist spirit of the Esperanto movement and modern linguistic principles, it connects individuals from conflict-ridden regions across Africa (such as the Congo), and Eastern Europe (Ukraine), as well as peacemakers from India, the United States, and beyond. Inspired by the attention and encouragement of prominent figures such as Prof. Sanjiv Chopra of Harvard Medical School (brother of Deepak Chopra), PacoSperanto aims to serve as a linguistic instrument for diplomacy, healing, and global harmony. The project is officially slated for rollout in Q4 2026 or Q1 2027.
+PacoSperanto is a newly developed constructed language designed to unite a global community of peacemakers. Rooted in the internationalist spirit of the Esperanto movement and modern linguistic principles, it connects individuals from conflict-ridden regions across Africa (such as the Congo), and Eastern Europe (Ukraine), as well as peacemakers from India, the United States, and beyond (#summary: this language links people around the world who want to work specifically towards peace and avoiding war / violent conflict). 
+
+Inspired by the attention and encouragement of prominent figures such as Prof. Sanjiv Chopra of Harvard Medical School (brother of Deepak Chopra), PacoSperanto aims to serve as a linguistic instrument for diplomacy, healing, and global harmony. The project is officially slated for rollout in Q4 2026 or Q1 2027.
 
 ### 3. What are the Aims of PacoSperanto?
 
