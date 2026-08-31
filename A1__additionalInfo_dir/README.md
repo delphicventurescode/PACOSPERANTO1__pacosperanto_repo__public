@@ -4,6 +4,10 @@ This directory has additional information on the Pacosperato language. This info
 
 [+]
 
+### SECTION 1
+
+[+]
+
 #linguistics #IPLaw
 
 Comments & additional info on the Pacosperanto Language:
@@ -17,6 +21,10 @@ Comments & additional info on the Pacosperanto Language:
 4. Please note that literacy improvement is actually a secondary goal. The primary goal is to create a KFP (Komunumo De Pacfarantoj), or Community of Peacemakers.
 
 5. Please also note that this is an experimental project.
+
+[+]
+
+### SECTION 2
 
 [+]
 
