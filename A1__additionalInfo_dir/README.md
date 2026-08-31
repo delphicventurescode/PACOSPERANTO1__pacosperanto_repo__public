@@ -12,6 +12,11 @@ A patent has been applied for on technologies surrounding the language (patent h
 
 [+]
 
+Please note that literacy improvement is actually a secondary goal.
+
+Please also note that this is an experimental project.
+[+]
+
 URL for additional information on Pacosperanto, courtesy Google Books:
 
 https://books.google.co.in/books/about/ESPERANTANANDA.html?id=eYDozwEACAAJ&redir_esc=y
