@@ -22,7 +22,7 @@ https://books.google.co.in/books/about/ESPERANTANANDA.html?id=eYDozwEACAAJ&redir
 
 The full paper has been uploaded to SSRN.
 
-Abstract:
+#### Abstract:
 
 In this paper, we introduce a new language called Esperantananda. Also sometimes called Hindu-Esperanto, Hesperanto, Esparantanando, Termite-speranto or Anand-speranto, Esperantananda is a natural language that is designed to be very easy to learn. Speakers of English can pick up the basics of this language in around two weeks. Designed for a South Asian audience, people are able to start speaking Esperanto within two weeks of learning provided they know Sanskrit or Hindi and English. The language has two cases - nominative and accusative - similar to Esperanto. All nouns end in -o, all adjectives end in -a and all infinitives end in -I, similar to Esperanto. In addition, English words that are technology-related, especially products and companies, are adopted as such in Anand-speranto with an -x ending. Furthermore, a large number of nouns, verbs and adjectives are adopted from Hindi or Hindustani (originally Sanskrit). The Sanskrit-nisht form of Hindi is favored since the Urdu-based version of Hindustani has words from multiple sources, including Turkish, Arabic and Persian. It is expected that this language can significantly help with literacy efforts in the Indian subcontinent where literacy rates are still relatively low by world standards. It is also meant to be a language free from racial and ethnic slurs and insults. Thereby, this language is designed to promote world peace.
 
