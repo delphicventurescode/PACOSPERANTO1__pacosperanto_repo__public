@@ -12,9 +12,10 @@ A patent has been applied for on technologies surrounding the language (patent h
 
 [+]
 
-Please note that literacy improvement is actually a secondary goal.
+Please note that literacy improvement is actually a secondary goal. The primary goal is to create a KFP (Komunumo De Pacfarantoj), or Community of Peacemakers.
 
 Please also note that this is an experimental project.
+
 [+]
 
 URL for additional information on Pacosperanto, courtesy Google Books:
