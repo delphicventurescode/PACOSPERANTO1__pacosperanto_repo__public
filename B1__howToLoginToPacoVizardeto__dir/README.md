@@ -19,4 +19,6 @@ Welcome to the **Paco-Vizardeto** web application (Version 1.0, current as of Au
    Enter your authorized Google email address (such as your designated project email) along with your password and any required verification steps to sign in through Google.
 
 4. **Access the Dashboard and Private Chat**  
-   Once successfully authenticated, you will be directed to the **Paco-Vizardeto Private Group Chat**. This interface also functions as the central dashboard for project managers and active collaborators.
+   Once successfully authenticated, you will be directed to the **Paco-Vizardeto Private Group Chat**. (This interface also functions as the central dashboard for project managers and active collaborators #dashboardForNewOnboardeesOnly -- information accurate as of August 31, 2026).
+
+   [+]
