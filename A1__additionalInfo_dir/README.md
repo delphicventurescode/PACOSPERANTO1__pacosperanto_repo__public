@@ -8,7 +8,7 @@ Information on the language referred to as Pacosperanto will be provided on a "n
 
 Anyone who speaks Esperanto already speaks Pacosperanto because every sentence in Esperanto is a valid sentence in Pacosperanto.
 
-A patent has been applied for on technologies surrounding the language (patent held by Prof. Anand Manikutty, and Prof. Sankaran Manikutty), but it is envisioned that the technologies will be made available to everyone for free.
+A patent has been applied for on technologies surrounding the language (patent held by Prof. Anand Manikutty, and Prof. Sankaran Manikutty), but it is envisioned that the technologies will be made available to everyone for free. The patent application process has been carefully conducted to achieve such an outcome.
 
 [+]
 
