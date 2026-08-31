@@ -34,6 +34,6 @@ In this paper, we introduce a new language called Esperantananda. Also sometimes
 
 [+]
 
-Please note that the Abstract on Google Books is out of date.
+Please note that the Abstract on Google Books is out of date, but you can get the general picture of how this language works from the Abstract itself. Further information is available in the patent filing documents (available upon request).
 
 [+]
