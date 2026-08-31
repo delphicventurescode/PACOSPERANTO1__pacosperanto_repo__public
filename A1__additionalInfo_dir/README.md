@@ -3,7 +3,10 @@
 This directory has additional information on the Pacosperato language. This information is provided only in English.
 
 [+]
-Comments on Pacosperanto:
+
+#linguistics
+
+Comments on the Pacosperanto Language:
 
 1. Information on the language referred to as Pacosperanto will be provided on a "need to know" basis.
 
