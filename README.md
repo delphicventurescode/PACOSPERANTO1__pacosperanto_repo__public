@@ -2,7 +2,7 @@
 
 # PacoSperanto
 
-*Read this in other languages: [English](#english), [Français](#français), [Esperanto](#esperanto), [हिंदी](#हिंदी) (Canonical)*
+*Read this in other languages: [English](#english) (Canonical), [Français](#français), [Esperanto](#esperanto), [हिंदी](#हिंदी) (Canonical)*
 
 ---
 
