@@ -4,7 +4,7 @@ This directory has additional information on the Pacosperato language. This info
 
 [+]
 
-#linguistics
+#linguistics #IPLaw
 
 Comments on the Pacosperanto Language:
 
