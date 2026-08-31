@@ -2,7 +2,7 @@
 
 # Paco-Vizardeto: Login Guide
 
-Welcome to the **Paco-Vizardeto** web application (Version 1.0, current as of August 31, 2026). This guide outlines the steps required to log in and access your workspace within the platform.
+Welcome to the **Paco-Vizardeto** web application (Version 1.0, current as of August 31, 2026). This guide outlines the steps required to log in and access the workspace within the platform.
 
 ---
 
