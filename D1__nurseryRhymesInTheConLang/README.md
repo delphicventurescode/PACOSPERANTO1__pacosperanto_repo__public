@@ -43,12 +43,19 @@ Diamanto sur ĉiel'!
 #### Bleku, Nigra Ŝafo
 
 Bleku, bleku, nigra ŝafo!
-Ĉu ~oon~on havas vi?
+
+Ĉu ~Un~on havas vi?
+
 Jes Sinjoro, jes Sinjor',
+
 Mi havas sakojn teen'.
+
 Por la bona mastro
+
 Kaj la mastrineto
+
 Ankaŭ por la knab'
+
 Kiu loĝas en vojeto.
 
 [=]
