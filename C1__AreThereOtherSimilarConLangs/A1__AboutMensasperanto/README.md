@@ -50,3 +50,6 @@ Mensasperanto solves this challenge by offering:
 * **Actionable Solidarity:** A direct bridge connecting stressed students and individuals with a global network of supporters, educators, and mental wellness advocates.
 
 Backed by the proven success of the Fulmo Talk Series and robust digital tools, Mensasperanto represents a bold step forward in modern wellness. It proves that when we build a language with mental peace as its fundamental axiom, we give humanity a new set of technologies not just to speak, but to heal and thrive together.
+
+
+[+]
