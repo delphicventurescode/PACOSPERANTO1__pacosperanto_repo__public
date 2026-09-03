@@ -1,6 +1,6 @@
 # About Mensasperanto
 
-**Mensasperanto: A Constructive Path to Mental Wellness**
+**Mensasperanto: A ConLang to Create a Community of People Interested In Mental Wellness and Spreading Evidence Based Information about it**
 
 **Introduction and the Need for a Dedicated Wellness ConLang**
 
