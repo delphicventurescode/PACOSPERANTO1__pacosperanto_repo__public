@@ -1,4 +1,4 @@
-# nursery Rhymes in the ConLang.
+# Nursery Rhymes in the ConLang.
 
 It is very easy to construct nursery rhymes in Pacosperanto.
 
