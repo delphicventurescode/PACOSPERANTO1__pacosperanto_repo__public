@@ -83,4 +83,4 @@ Here is a classic Esperanto nursery rhyme (*Suna Rimportreto*) translated into a
 * **asman** (from Hindi *आसमान / āsmān*) replacing Esperanto *cielo* (sky)
 * **sundar** (from Hindi *सुंदर / sundar*) replacing Esperanto *bela* (beautiful)
 
-Because Pacosperanto maintains flexible rules for vocabulary integration, pulling natural, melodious words directly from languages like Hindi allows you to craft catchy, engaging nursery rhymes almost effortlessly.
+Because Pacosperanto maintains flexible rules for vocabulary integration, and allows for pulling natural, melodious words directly from Hindi, it allows you to craft catchy, engaging nursery rhymes almost effortlessly.
