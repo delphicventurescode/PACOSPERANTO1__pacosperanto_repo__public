@@ -71,7 +71,7 @@ Here is a classic Esperanto nursery rhyme (*Suna Rimportreto*) translated into a
 > *Brilu, brilu, malgranda **tara**,
 > Kiam **rat** venas kun **andhera**.*
 > *Alta en la **asman** lun',
-> Kanta **sundar** nokta kanto.*
+> Kantas **sundar** nokta kanto.*
 
 ---
 
