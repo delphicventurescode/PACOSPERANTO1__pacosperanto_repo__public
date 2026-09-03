@@ -64,7 +64,7 @@ Kiu loĝas en vojeto.
 
 Creating nursery rhymes in Pacosperanto is remarkably straightforward! Since the language builds gracefully on familiar roots, you can seamlessly blend Esperanto’s clear structure with vocabulary from other languages, like Hindi, while keeping the rhythmic flow intact.
 
-Here is a classic Esperanto nursery rhyme (*Suna Rimportreto*) translated into a hybrid Pacosperanto form by weaving in Hindi root words:
+Here is a classic Esperanto nursery rhyme translated into a Pacosperanto form by weaving in Hindi root words:
 
 **Pacosperanto Version:**
 
@@ -84,3 +84,5 @@ Here is a classic Esperanto nursery rhyme (*Suna Rimportreto*) translated into a
 * **sundar** (from Hindi *सुंदर / sundar*) replacing Esperanto *bela* (beautiful)
 
 Because Pacosperanto maintains flexible rules for vocabulary integration, and allows for pulling natural, melodious words directly from Hindi, it allows you to craft catchy, engaging nursery rhymes almost effortlessly.
+
+[+]
