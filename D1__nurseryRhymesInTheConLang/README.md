@@ -12,9 +12,9 @@ Levu vin,
 
 Levu vin,
 
-Jen la ghaNTAo,
+Jen la ~ghaNTA~',
 
-Jen la ghaNTAo
+Jen la ~ghaNTA~'
 
 Bim bam bom,
 
@@ -22,9 +22,9 @@ Bim bam, bom.
 
 ### Example #2
 
-Brilu, brilu, eta taar'
+Brilu, brilu, eta ~taar~'
 
-Brilu, brilu, eta taar',
+Brilu, brilu, eta ~taar~',
 
 Diamanto sur ĉiel'!
 
