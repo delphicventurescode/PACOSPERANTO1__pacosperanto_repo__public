@@ -22,6 +22,6 @@ _"Konektante individuojn serĉantajn internan pacon kun prelegoj de ĉefaj spert
 #### Translation
 "By connecting individuals seeking peace of mind with talks by leading experts and industry professionals, the Fulmo Talk Series website provides a rich set of resources for individuals seeking additional information on happiness, mental wellness, and productivity. Mensasperanto aims to provide a neutral linguistic and cultural baseline to go hand in hand with this project. Included are tools created to manage communities and for personal knowledge management. As mentioned, the aim of the Fulmo Talk Series is to create low cost and zero cost resources for those who need it most."
 
-Today, the Fulmo Talk Series has blossomed into one of the leading talk series in its space in India, directly catering to the urgent, growing demand of college students facing stress and mental wellness issues. By blending evidence-based positive psychology with accessible regional engagement, the talk series has successfully bridged academic research and grassroots application.
+Today, the Fulmo Talk Series has blossomed into one of the leading talk series in its space in India, directly catering to the urgent, growing demand of college students facing stress and mental wellness issues. By blending evidence-based positive psychology with accessible engagement, the talk series has successfully bridged academic research and grassroots application.
 
 [+]
