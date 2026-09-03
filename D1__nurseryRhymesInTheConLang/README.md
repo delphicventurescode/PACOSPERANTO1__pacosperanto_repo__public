@@ -38,6 +38,21 @@ Diamanto sur ĉiel'!
 
 [=]
 
+### Example #3
+
+#### Bleku, Nigra Ŝafo
+
+Bleku, bleku, nigra ŝafo!
+Ĉu ~oon~on havas vi?
+Jes Sinjoro, jes Sinjor',
+Mi havas sakojn teen'.
+Por la bona mastro
+Kaj la mastrineto
+Ankaŭ por la knab'
+Kiu loĝas en vojeto.
+
+[=]
+
 ### A more interesting example
 
 Creating nursery rhymes in Pacosperanto is remarkably straightforward! Since the language builds gracefully on familiar roots, you can seamlessly blend Esperanto’s clear structure with vocabulary from other languages, like Hindi, while keeping the rhythmic flow intact.
