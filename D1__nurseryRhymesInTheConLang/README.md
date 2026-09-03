@@ -23,11 +23,17 @@ Bim bam, bom.
 ### Example #2
 
 Brilu, brilu, eta taar'
+
 Brilu, brilu, eta taar',
+
 Diamanto sur ĉiel'!
+
 Diru, kio estas vi,
+
 Tiel alta super ni?
-Brilu, brilu, eta taara',
+
+Brilu, brilu, eta taar',
+
 Diamanto sur ĉiel'!
 
 [=]
