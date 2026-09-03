@@ -1,7 +1,17 @@
 # Nursery Rhymes in the ConLang.
 
 {=}
-It is very easy to construct nursery rhymes in Pacosperanto.
+
+This is to follow up on a conversation in the Facebook Group "Constructed Languages."
+
+{=}
+Someone wanted to get some ideas on how to create nursery rhymes in their ConLang. 
+{=}
+To get an idea of how to do that, read the information below.
+
+First note the first few examples of nurser rhymes.
+
+Note how elegant the design of Hesperanto is. It is very easy to construct nursery rhymes in Pacosperanto, also known as Hesperanto.
 
 ### Example #1
 
