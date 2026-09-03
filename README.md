@@ -2,8 +2,15 @@
 
 [+]
 
+Name of repo: PACOSPERANTO1__pacosperanto_repo__public
+
+[+]
+
 This GitHub repo offers some limited information on the Pacosperanto project. (The keyword here is "limited".)
 
+[+]
+
+PacoSperanto was developed by Anand Manikutty. Drawing on our experience with the Fulmo Talk Series, we expect a suficxe bona (trans. : "sufficiently good") community to form around the Paco Project as well.
 [+]
 
 # PacoSperanto
