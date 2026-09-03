@@ -71,7 +71,7 @@ Kiu loĝas en vojeto.
 
 [=]
 
-### A more interesting example
+### A more interesting example and discussion
 
 Creating nursery rhymes in Pacosperanto is remarkably straightforward! Since the language builds gracefully on familiar roots, you can seamlessly blend Esperanto’s clear structure with vocabulary from other languages, like Hindi, while keeping the rhythmic flow intact.
 
