@@ -46,7 +46,7 @@ In this paper, we introduce a new language called Esperantananda. Also sometimes
 
 [+]
 
-#### Additional note
+#### Additional note in a somewhat humorous vein
 
 
 The abstract on Google Books is a bit dusty and out of date, but it still gives you the basic blueprint of how the language works. For the full, unvarnished story, check out our patent filing documents (available upon request). As for why this language has more names than a royal newborn? We accumulated so much code over time that different developers and contributors just started making up their own names for it—partly out of affection, but mostly out of chaos.
