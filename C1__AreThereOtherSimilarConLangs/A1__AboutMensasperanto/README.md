@@ -4,7 +4,7 @@
 
 ~
 
-**(that is, People Interested In Mental Wellness and Spreading Evidence Based Information about it)**
+**(that is, People Interested In Mental Peace/Mental Wellness and Spreading Evidence Based Information about it)**
 
 ~
 
