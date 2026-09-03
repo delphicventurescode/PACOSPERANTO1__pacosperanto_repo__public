@@ -46,6 +46,6 @@ In this paper, we introduce a new language called Esperantananda. Also sometimes
 
 [+]
 
-Please note that the Abstract on Google Books is out of date, but you can get the general picture of how this language works from the Abstract itself. Further information is available in the patent filing documents (available upon request).
+The abstract on Google Books is a bit dusty and out of date, but it still gives you the basic blueprint of how the language works. For the full, unvarnished story, check out our patent filing documents (available upon request). As for why this language has more names than a royal newborn? We accumulated so much code over time that different developers and contributors just started making up their own names for it—mostly out of affection, but mostly out of chaos.
 
 [+]
