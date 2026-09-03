@@ -8,8 +8,6 @@
 
 ~
 
-**Introduction and the Need for a Dedicated Wellness ConLang**
-
 In an era defined by hyper-connectivity and unprecedented societal pressures, millions of individuals—particularly students navigating the demanding transition into higher education—face staggering levels of stress, anxiety, and burnout. While traditional languages carry rich histories, they also carry the baggage of friction, fatigue, and cultural baggage that can complicate healing. This is where specialized constructed languages (ConLangs) step in, offering a clean, shared architectural framework designed explicitly for high-value human needs.
 
 Mensasperanto was built precisely on this premise. Expanding upon the global spirit of international auxiliary languages like Esperanto, Mensasperanto is designed not merely for general travel or trade, but to forge an active, resilient community dedicated entirely to mental wellness, emotional healing, and psychological support.
