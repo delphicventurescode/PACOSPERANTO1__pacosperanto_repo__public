@@ -1,5 +1,11 @@
 # PACOSPERANTO1__pacosperanto_repo__public
 
+[+]
+
+This GitHub repo offers some limited information on the Pacosperanto project. (The keyword here is "limited".)
+
+[+]
+
 # PacoSperanto
 
 *Read this in other languages: [English](#english) (Canonical), [Français](#français), [Esperanto](#esperanto), [हिंदी](#हिंदी) (Canonical)*
