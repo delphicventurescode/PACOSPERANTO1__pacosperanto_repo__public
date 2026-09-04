@@ -48,11 +48,28 @@ Ans. All that is required of participants is to record a 7-to-10-minute Prelego 
 
 [+]
 
+[+]
+
+#### demando #3 - question #3
+
+[+]
 
 Q3. [Comment from Stephen DeGrace] Pretty flags! You don't want my feedback, though. I'm from a dimetrically opposite end of the conlang spectrum, though lol.
 
 
+Ans. We don't mind any types of feedback as long as they are not ad hominem, including on what could be the negative aspects of creating a ConLang like the one we created. 
+
+Please email us at teamqwykr@proton.me and make sure to cc: Anand on his Stanford email address. 
+
+Gxis:-)
 [+]
+
+[+]
+
+#### demando #4 - question #4
+
+[+]
+
 Q4. Do I have to learn the ConLang? How long would it take?
 
 Ans. Cutting-and-pasting this reply sent to an interesixga homo (trans.: "interested person") sent via email.
