@@ -90,6 +90,19 @@ QATS"
 
 [+]
 
+[+]
+
+#### demando #5 - question #5
+
+[+]
+
+Q4. [Comment from B P, paraphrased] Is this a MLM?
+
+Ans. No, this is not a Multi-Level Marketing (MLM) scheme. This is definitely not Amway, no way! There are no buy-ins, no products to sell, and no recruitment pyramids—just a collaborative project built around communication, language, and community.
+
+[+][+]
+
+
 #### demando #101 - question #101
 
 
