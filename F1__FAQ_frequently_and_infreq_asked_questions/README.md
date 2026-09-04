@@ -53,7 +53,22 @@ Q3. [Comment from Stephen DeGrace] Pretty flags! You don't want my feedback, tho
 
 
 [+]
+Q4. Do I have to learn the ConLang? How long would it take?
 
+Ans. Cutting-and-pasting this reply sent to an interesixga homo (trans.: "interested person") sent via email.
+
+"Hi X,
+
+The conlang itself is really a vehicle for generating social media buzz and interest.
+
+We talk about the conlangs we develop in Facebook groups, which helps people who might not otherwise have heard about our projects discover them.
+
+You don't actually need to learn the conlang. All you need to do is talk with us so we can coach you on delivering a talk with under half an hour of total prep work — then just set aside the time to record it. We will be there with you for the recording also.
+
+Best,
+QATS"
+
+[+]
 
 Q101. [From Benjamin Pyke ] Esperanto jam ekzistas. Kio je via projekto malsimilas?
 
