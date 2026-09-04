@@ -39,7 +39,8 @@ Q2. [Question from A R] What do partoprenantoj, or participants, in the Pacosper
 Ans. All that is required of participants is to record a 7-to-10-minute Prelego (talk). We also offer coaching and advice to help you optimize your preparation time, and delivering the talk itself takes no more than 10 minutes. It will take no more than three hours of your time, in total.
 [+]
 
+Q3. [Comment from Stephen DeGrace] Pretty flags! You don't want my feedback, though. I'm from a dimetrically opposite end of the conlang spectrum, though lol.
 
-Q101. [From B P ] Esperanto jam ekzistas. Kio je via projekto malsimilas?
+Q101. [From Benjamin Pyke ] Esperanto jam ekzistas. Kio je via projekto malsimilas?
 
 [+]
