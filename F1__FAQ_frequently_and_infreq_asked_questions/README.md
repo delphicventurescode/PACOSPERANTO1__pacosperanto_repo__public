@@ -3,7 +3,7 @@
 [+]
 [+] 
 
-<this .md file is Work In Progress>
+<this .md file is Work In Progress. All questions will be answered, eventually, on here. In the meantime, just email Support at teamqwykr@proton.me and cc: Anand on his Stanford email address.>
 
 [+]
 
