@@ -32,8 +32,14 @@ Note that many participants simply participate as observantoj (that is, "observe
 
 #### demando #2 - question #2
 
-Q2. 
+[+] <this .md file is Work In Progress>
 
-Q10. [From B P ] Esperanto jam ekzistas. Kio je via projekto malsimilas?
+Q2. [Question from A R] What do partoprenantoj, or participants, in the Pacosperanto Project have to do?
+
+Ans. All that is required of participants is to record a 7-to-10-minute Prelego (talk). We also offer coaching and advice to help you optimize your preparation time, and delivering the talk itself takes no more than 10 minutes. It will take no more than three hours of your time, in total.
+[+]
+
+
+Q101. [From B P ] Esperanto jam ekzistas. Kio je via projekto malsimilas?
 
 [+]
