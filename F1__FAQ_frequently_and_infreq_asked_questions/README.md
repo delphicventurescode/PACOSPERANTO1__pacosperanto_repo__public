@@ -50,7 +50,7 @@ Ans. All that is required of participants is to record a 7-to-10-minute Prelego 
 
 [+]
 
-#### demando #3 - question #3
+#### demando/komento #3 - question/comment #3
 
 [+]
 
