@@ -102,6 +102,13 @@ Ans. No, this is not a Multi-Level Marketing (MLM) scheme. This is definitely no
 
 [+][+]
 
+#### demando #6 - question #6
+
+[+]
+
+Q6. how exactly are we expected to do this? Should each participant simply record a 7–10 minute video or audio talk about peace in a particular region, and then send it to the team? Are we free to choose the region and the specific topic, or will a particular region/topic be assigned to us? And also, which language should we use for the talk? English, Esperanto, or another language? Thank you for guiding us. 😊
+
+Ans. 
 
 #### demando #101 - question #101
 
