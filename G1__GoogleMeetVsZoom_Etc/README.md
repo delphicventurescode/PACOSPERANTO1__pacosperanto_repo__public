@@ -12,6 +12,10 @@ To answer your questions about how the talk works based on our process for the F
 
 {<stuff_deleted>}
 
-* Language: The talk should ideally be in English, but Esperanto is perfectly fine as well. Looking forward to working with you on this!
+* Language: The talk should ideally be in English, but Esperanto is perfectly fine as well. 
+
+~
+
+Looking forward to working with you on this!
 
 [+]
