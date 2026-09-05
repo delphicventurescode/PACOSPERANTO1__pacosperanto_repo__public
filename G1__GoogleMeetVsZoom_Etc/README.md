@@ -10,6 +10,8 @@ To answer your questions about how the talk works based on our process for the F
 
 * Recording Process: We will set up a Zoom or Google Meet session together where we record your talk. You don't need to worry about recording it on your own and sending it over. 
 
+{<stuff_delete>}
+
 * Language: The talk should ideally be in English, but Esperanto is perfectly fine as well. Looking forward to working with you on this!
 
 [+]
