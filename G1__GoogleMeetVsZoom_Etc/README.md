@@ -1,0 +1,3 @@
+# README
+
+To answer your questions about how the talk works based on our process for the Fulmo Talk Series, everything is done collaboratively: * Topic & Region: You are completely free to choose the region and specific topic you want to speak about, especially if it's an area you are passionate about. We just ask that you run your proposed topic by us first before recording. * Recording Process: We will set up a Zoom or Google Meet session together where we record your talk. You don't need to worry about recording it on your own and sending it over. * Language: The talk should ideally be in English, but Esperanto is perfectly fine as well. Looking forward to working with you on this!
