@@ -3,6 +3,7 @@
 Q1. Answering a question from a partoprenanto (trans. : "participant).
 
 [+]
+
 To answer your questions about how the talk works based on our process for the Fulmo Talk Series, everything is done collaboratively: 
 
 * Topic & Region: You are completely free to choose the region and specific topic you want to speak about, especially if it's an area you are passionate about. We just ask that you run your proposed topic by us first before recording. 
