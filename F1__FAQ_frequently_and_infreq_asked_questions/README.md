@@ -106,7 +106,7 @@ Ans. No, this is not a Multi-Level Marketing (MLM) scheme. This is definitely no
 
 [+]
 
-Q6. Some questions in Esperanto.
+Q6. [Questions from F, translated]  Some questions in Esperanto.
 
 "Kiel ĝuste ni estas atendataj fari tion? Ĉu ĉiu partoprenanto simple registru 7–10-minutan vidan aŭ aŭdan paroladon pri paco en konkreta regiono, kaj poste sendu ĝin al la teamo? Ĉu ni rajtas libere elekti la regionon kaj la specifan temon, aŭ ĉu aparta regiono/temo estos asignita al ni? Kaj krome, kiun lingvon ni uzu por la parolado? La anglan, Esperanton, aŭ alian lingvon? Dankon pro via gvidado. 😊"
 
