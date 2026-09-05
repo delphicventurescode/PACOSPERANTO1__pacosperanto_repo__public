@@ -106,9 +106,13 @@ Ans. No, this is not a Multi-Level Marketing (MLM) scheme. This is definitely no
 
 [+]
 
-Q6. how exactly are we expected to do this? Should each participant simply record a 7–10 minute video or audio talk about peace in a particular region, and then send it to the team? Are we free to choose the region and the specific topic, or will a particular region/topic be assigned to us? And also, which language should we use for the talk? English, Esperanto, or another language? Thank you for guiding us. 😊
+Q6. Some questions in Esperanto.
 
-Ans. 
+"Kiel ĝuste ni estas atendataj fari tion? Ĉu ĉiu partoprenanto simple registru 7–10-minutan vidan aŭ aŭdan paroladon pri paco en konkreta regiono, kaj poste sendu ĝin al la teamo? Ĉu ni rajtas libere elekti la regionon kaj la specifan temon, aŭ ĉu aparta regiono/temo estos asignita al ni? Kaj krome, kiun lingvon ni uzu por la parolado? La anglan, Esperanton, aŭ alian lingvon? Dankon pro via gvidado. 😊"
+
+Ans. These questions are answered here:
+
+https://github.com/delphicventurescode/PACOSPERANTO1__pacosperanto_repo__public/tree/main/G1__GoogleMeetVsZoom_Etc
 
 #### demando #101 - question #101
 
