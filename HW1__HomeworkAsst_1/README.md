@@ -2,7 +2,7 @@
 
 [+]
 
-# Welcome Aboard, Anand!
+# Welcome Aboard, everyone!
 
 Now that the Squad of Avengers is officially well on the way to being assembled, it’s officially time to talk about our very first assignment.
 
