@@ -13,7 +13,7 @@ Think of this like a university course, except without the existential dread: th
 ## Assignment #1
 
 * **Pick Your Victims:** Grab any 4 to 6 photos from your personal vault. *(Yes, even the ancient, slightly embarrassing ones from the bottom of your Facebook profile count.)*
-* **Time Travel:** Slap an aggressive 1980s retro filter on them. ChatGPT has all the details. If you open ChatGPT right this moment, it will probably have a clickable photo which has that 80's look to it.
+* **Time Travel:** Slap an aggressive 1980s retro filter on them. ChatGPT has all the details. If you open ChatGPT right this moment, it will probably have a clickable photo which has that 80's look to it. You can ask Claude or Gemini to provide you an appropriate prompt for ChatGPT. Example - "Dear Claude/Gemini, there is a major trend going on where people are getting ChatGPT to turn their photos into 80s style images. Can you give me a prompt for ChatGPT to do this for me? Make sure there is a caption written in Esperanto for the generated image."
 * **Add the Esperanto Touch:** Give each vintage masterpiece a caption written in Esperanto.
 * **Post to GitHub:** Create a GitHub account, if you don't have one; create a public GitHub repo, and post your photos to your own GitHub.
 
