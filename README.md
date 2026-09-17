@@ -29,7 +29,7 @@ The following is one of the most frequently asked questions, and is the question
 
 Q2. [Question from A R] What do partoprenantoj, or participants, in the Pacosperanto Project have to do?
 
-Ans. All that is required of participants is to record a 7-to-10-minute Prelego (talk). We also offer coaching and advice to help you optimize your preparation time, and delivering the talk itself takes no more than 10 minutes. It will take no more than three hours of your time, in total.
+Ans. All that is required of participants is to record a 7-to-10-minute Prelego (talk). We also offer coaching and advice to help you optimize your preparation time, and delivering the talk itself takes no more than 10 minutes. It should take no more than three hours of your time, in total.
 
 [+]
 ## INFORMO / INFORMATION
