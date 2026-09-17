@@ -14,12 +14,16 @@ PacoSperanto was developed by Anand Manikutty. Drawing on our experience with th
 
 
 [+]
+### FAQ
+
+A FAQ has been created for the Pacosperanto Project. It is available here:
+https://github.com/delphicventurescode/PACOSPERANTO1__pacosperanto_repo__public/tree/main/F1__FAQ_frequently_and_infreq_asked_questions
 
 The following is one of the most frequently asked questions, and is the question we think partoprenantoj (that is, "participants") will most likely want to get the answer to. Since this question comes up so frequently, we have posted it here.
 
 [+]
 
-### demando #2 - question #2
+#### demando #2 - question #2
 
 [+] <this .md file is Work In Progress>
 
