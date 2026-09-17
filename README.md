@@ -41,7 +41,9 @@ Q102. [Question from Af.] Where are the language modules for us to learn Pacospe
 
 Ans. Participants don't need to commit time to learn a new constructed language. Learning a new language takes months of effort, and such a time commitment is impractical for all but a few dedicated partoprenantoj (trans. : "participants"). The original Pacosperanto paper and associated documents are available from Qwykr Support for review, but, again, all that is required of participants is to record a 7-to-10-minute Prelego (talk). 
 
-Of the participants in the 2025 and 2026 editions of the Fulmo Talk Series, nobody actually learnt the Mensasperanto language. However👍, the desired outcome of creating a Talk Series centered on the theme of Mental Wellness was, nevertheless, achieved. We have been primarily focused on the logistics of the Talk Series itself, viz., getting speakers omboardrd on to our web apps, preparing information for Facebook, preparing information for the Fulmo Talk Series website, et cetera. While information on Pacosperanto and Mensasperanto is available with us, teaching people these new languages is not a priority for us, and partoprenantoj are expected to learn these languages via self-study.
+Of the participants in the 2025 and 2026 editions of the Fulmo Talk Series, nobody actually learnt the Mensasperanto language. However👍, the desired outcome of creating a Talk Series centered on the theme of Mental Wellness was, nevertheless, achieved. 
+
+At Qwykr during August and September 2026, we have been primarily focused on the logistics of the Talk Series itself, viz., getting speakers omboardrd on to our web apps, preparing information for Facebook, preparing information for the Fulmo Talk Series website, et cetera. While information on Pacosperanto and Mensasperanto is available with us, teaching people these new languages is not a priority for us, and partoprenantoj are expected to learn these languages via self-study.
 
 [×]
 ## INFORMO / INFORMATION
