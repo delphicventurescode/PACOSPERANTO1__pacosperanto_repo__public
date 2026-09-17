@@ -14,7 +14,8 @@ PacoSperanto was developed by Anand Manikutty. Drawing on our experience with th
 
 
 [+]
-The following is the question participants usually want to get the answer to. Since this question comes up so frequently, we have posted it here.
+
+The following is one of the most frequently asked questions, and is the question we think partoprenantoj (that is, "participants") will most likely want to get the answer to. Since this question comes up so frequently, we have posted it here.
 
 [+]
 
