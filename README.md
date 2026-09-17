@@ -81,7 +81,7 @@ At Qwykr during August and September 2026, we have been primarily focused on the
 
 ---
 
-## <a id="english"></a>English
+## <a id="english"></a>English (Canonical)
 
 ### PacoSperanto: A Community of Global Peacemakers
 
