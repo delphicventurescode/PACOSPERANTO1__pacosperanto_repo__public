@@ -18,7 +18,7 @@ Comments & additional info on the Pacosperanto Language:
 
 3. A patent has been applied for on technologies surrounding the language (patent held by Prof. Anand Manikutty, and Prof. Sankaran Manikutty), but it is envisioned that the technologies will be made available to everyone for free. The patent application process has been carefully conducted to achieve such an outcome.
 
-4. Please note that literacy improvement is actually a secondary goal. The primary goal is to create a KFP (Komunumo De Pacfarantoj), or Community of Peacemakers.
+4. Please note that learning improvement is actually a secondary goal. The primary goal is to create a KFP (Komunumo De Pacfarantoj), or Community of Peacemakers.
 
 5. Please also note that this is an experimental project.
 
