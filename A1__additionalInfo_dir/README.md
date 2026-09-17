@@ -38,7 +38,7 @@ https://books.google.co.in/books/about/ESPERANTANANDA.html?id=eYDozwEACAAJ&redir
 
 #### Information on the paper
 
-The full paper has been uploaded to SSRN.
+The full paper has been uploaded to SSRN. Reading the paper will give you all the information you need about the Pacosperanto Language.
 
 #### Abstract:
 
